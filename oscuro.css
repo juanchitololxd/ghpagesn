@@ -1,4 +1,4 @@
-@import './../generales/estilos.css';
+@import './estilos.css';
 
 * {
     --main-bg-color: #282838;
